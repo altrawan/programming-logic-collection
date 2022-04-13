@@ -1,4 +1,4 @@
-# Logic Javascript Quiz
+# Javascript Logic Quiz
 
 1. Alwi Merupakan pegawai di toko sepatu. Ia diberikan tumpukan sepatu, lalu diminta untuk memasangkan sepatu tersebut berdasarkan ukuran yang sama untuk dijual. Diberikan parameter berupa array yang berisi deret angka, yang dimana angka tersebut merupakan nomor-nomor sepatu yang harus dipasangkan. Hitunglah berapa pasang sepatu berdasarkan parameter deret angka yang diberikan!
     - Buatlah flowchart untuk menyelesaikan fungsi dibawah ini.
