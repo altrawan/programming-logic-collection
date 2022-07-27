@@ -178,11 +178,11 @@ function getCoordinates(arr, border) {
 
   for (let i = 0; i < arr.length; i++) {
     if (arr[i].name === border) {
-      return arr[i].coordinates.map((item) => item.join(', ')).join(', ');
+      return arr[i].coordinates.map((item) => item.join(' ')).join(', ');
     }
   }
 
   return `param border with name ${border} not found`;
 }
 
-console.log(getCoordinates(data, 'border_1'));
+console.log(getCoordinates(data, 'border_2'));
